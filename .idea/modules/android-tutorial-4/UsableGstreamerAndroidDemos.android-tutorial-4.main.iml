@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../../../../gst-docs-discontinued-for-monorepo/examples/tutorials/android/android-tutorial-4">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../gst-docs-discontinued-for-monorepo/examples/tutorials/android/android-tutorial-4" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../gstreamer-1.0-android-universal-1.22.10/x86_64/include">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../gstreamer-1.0-android-universal-1.22.10/x86_64/include" type="native-header-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../gstreamer-1.0-android-universal-1.22.10/x86_64/include/glib-2.0" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../gstreamer-1.0-android-universal-1.22.10/x86_64/include/gstreamer-1.0">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../gstreamer-1.0-android-universal-1.22.10/x86_64/include/gstreamer-1.0" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../gstreamer-1.0-android-universal-1.22.10/x86_64/include/orc-0.4">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../gstreamer-1.0-android-universal-1.22.10/x86_64/include/orc-0.4" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../gstreamer-1.0-android-universal-1.22.10/x86_64/lib/glib-2.0/include">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../gstreamer-1.0-android-universal-1.22.10/x86_64/lib/glib-2.0/include" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../android-tutorial-4/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../../../android-tutorial-4/jni" type="native-Source-root" />
+    </content>
+  </component>
+</module>
